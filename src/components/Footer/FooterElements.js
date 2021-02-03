@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 
 import styled from "styled-components"
-import {MdCameraRoll}  from "react-icons/Md"
+import {MdCameraRoll}  from "react-icons/md"
 
 export const FooterContainer = styled.div`
   background-color: #101522;
