@@ -5,7 +5,7 @@ import {  ImgStyles, InfoContainer, InfoGrid, LeftSide , RightSide, BtnContainer
 
 import Selfie from "../../images/headshot.jpg"
 import Toggle from "./toggle"
-import {BiChevronsDown} from 'react-icons/Bi'
+import {BiChevronsDown} from 'react-icons/bi'
 
 
 

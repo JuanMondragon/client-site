@@ -1,7 +1,7 @@
 
 import styled from 'styled-components'
 import {Link} from "gatsby"
-import {MdCameraRoll}  from "react-icons/Md"
+import {MdCameraRoll}  from "react-icons/md"
 
 
 export const Nav = styled.nav `
