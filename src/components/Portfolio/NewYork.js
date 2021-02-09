@@ -10,7 +10,7 @@ const NewYork = () => {
       allFile(
         filter: {
           extension: { regex: "/(jpg)|(png)|(jpeg)/" }
-          name: { nin: [ "background" "background2" "tetons" "joshuatree"  "arches" "yellowstone" "tetons1" "portAngeles" "yosemite" "yosemite1" "yosemite2" "yosemite3" "yosemite4" "yosemite6" "yosemite7" "pnw" "pnw1" "pnw2" "pnw3" "pnw4" "pnw5" "utah" "utah1" "utah2" "utah3" "utah4" "utah5" "arches" "zion" "headshot" "gatsby-icon"] }
+          name: { nin: [ "background" "background2" "tetons" "joshuatree"  "arches" "yellowstone" "tetons1" "portAngeles" "yosemite" "yosemite1" "yosemite2" "yosemite3" "yosemite4" "yosemite6" "yosemite7" "pnw" "pnw1" "pnw2" "pnw3" "pnw4" "pnw5" "utah" "utah1" "utah2" "utah3" "utah4" "utah5" "arches" "zion" "headshot" "gatsby-icon" "favicon"] }
         }
       ) {
         edges {
