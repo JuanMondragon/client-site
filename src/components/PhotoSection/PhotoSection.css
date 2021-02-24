@@ -35,7 +35,7 @@
 
 @media screen and (max-width: 768px) {
   .photo-container > h1 {
-    font-size: 50px !important ;
+    font-size: 45px !important ;
   }
   .photo-container > p {
     font-size: 25px;
